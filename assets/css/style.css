@@ -55,14 +55,19 @@ header nav ul li a {
     background-position: center;
 }
 
-p {
-    font-size: 16px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .search-engine-optimization {
@@ -108,11 +113,6 @@ p {
     max-height: 200px;
     float: left;
     margin-right: 25px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .benefits {
