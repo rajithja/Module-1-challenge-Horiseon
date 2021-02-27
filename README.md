@@ -14,7 +14,7 @@ This project is undertaken as the weekly challenge assignment for the U of T cod
 
 The assignment for this module requires the developer to take an existing code and refactor it to make the website more accessible. The client, a marketing agency, requires a codebase that follows accessibility standards in-order for the site to be optimized for search engines.
 
-[Horiseon](.images/html-css-git-assignment.png)
+![](./assets/images/html-css-git-assignment.png)
 
 
 ## _**Acceptance Criteria for the assignment**_
@@ -56,4 +56,3 @@ When the final source code is viewed by the client they should find:
 ## _**Contact Information**_
 
 Rajith Jayakuru rajithjayakuru@gmail.com 
-g
