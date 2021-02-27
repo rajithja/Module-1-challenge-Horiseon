@@ -28,18 +28,18 @@ When the final source code is viewed by the client they should find:
 
 ## _**Tasks carried out**_
 
-1 Clone the starter code from utoronto-bootcamp [GitLab](https://utoronto.bootcampcontent.com/utoronto-bootcamp/utor-virt-bo-fsf-pt-02-2021-u-b.git) repository
-2 Create a new repository for the assignment called *Module-1-challenge-Horiseon* in [GitHUb](https://github.com/rajithja/Module-1-challenge-Horiseon.git)
-3 Open the local directory which was created by cloning in *Visual Studio Code*
-4 Add a README.md file to the directory 
-5 Edit the README.md file to include an introduction and and explanation of the assignment
-6 Edit the codebase with the aim of achieving the following
+1. Clone the starter code from utoronto-bootcamp [GitLab](https://utoronto.bootcampcontent.com/utoronto-bootcamp/utor-virt-bo-fsf-pt-02-2021-u-b.git) repository
+2. Create a new repository for the assignment called *Module-1-challenge-Horiseon* in [GitHUb](https://github.com/rajithja/Module-1-challenge-Horiseon.git)
+3. Open the local directory which was created by cloning in *Visual Studio Code*
+4. Add a README.md file to the directory 
+5. Edit the README.md file to include an introduction and and explanation of the assignment
+6. Edit the codebase with the aim of achieving the following
 * ensure all links are functioning properly
 * clean upo the CSS to make it more efficient 
 * consolidate CSS selectors and properties
 * organise the CSS selectors and properties to follow the semantic structure of the HTML elements
 * include comments before each element or section of the page
-7 Push the changes in the local repository to GitHub
+7. Push the changes in the local repository to GitHub
 
 ## _**Technologies used**_
 
